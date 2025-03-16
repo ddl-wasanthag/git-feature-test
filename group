@@ -45,3 +45,5 @@ messagebus:x:104:
 _ssh:x:105:
 rstudio-server:x:999:
 mygroup:x:70001
+group103:x:5003
+group105:x:5001
